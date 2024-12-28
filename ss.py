@@ -8,7 +8,7 @@ import os
 import json
 
 # Hardcoded Bot Token
-BOT_TOKEN = '7771838453:AAF54F4c4ErdJi6KWwGEvcVUM-UCXESG5ys'
+BOT_TOKEN = '7620447755:AAGmGrbo3WPJRdOHBw7ut9EVlK6BwFAY7QU'
 bot = telebot.TeleBot(BOT_TOKEN)  # Set timeout to 60 seconds
 
 # Set up logging
