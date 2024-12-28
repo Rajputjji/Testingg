@@ -9,7 +9,7 @@
 #include <time.h>
 
 // Define expiration date
-#define EXPIRATION_YEAR 2024
+#define EXPIRATION_YEAR 2025
 #define EXPIRATION_MONTH 12 // October
 #define EXPIRATION_DAY 12   // 31st
 
